@@ -15,7 +15,8 @@
 
 ## 💻 Playlist
 
-- [Curso de NodeJS com MySQL](https://www.youtube.com/playlist?list=PL2hDwB8DzXGPcZ2vJFbND25QNFcXMnnwU&disable_polymer=true)
+- [Curso de NodeJS com MySQL - Backend](https://www.youtube.com/playlist?list=PL2hDwB8DzXGPcZ2vJFbND25QNFcXMnnwU&disable_polymer=true)
+- [Curso de Reactjs com MySQL - Frontend](https://www.youtube.com/playlist?list=PL2hDwB8DzXGOxIuijrYNrPrKcjQERQtbO)
 
 ## ✋🏻 Pré-requisitos
 
