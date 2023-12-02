@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Curso de SQL com Postgres
+  Curso Básico de NodeJS com MySQL - CRUD
 </h1>
 
 <p align="justify">Seja bem-vindo à nossa jornada de aprendizado, onde mergulhamos nas profundezas do SQL utilizando o poderoso PostgreSQL. Essa playlist oferece uma experiência completa, desde conceitos básicos até técnicas avançadas para transformar você em um mestre em manipulação de dados.</p> 
