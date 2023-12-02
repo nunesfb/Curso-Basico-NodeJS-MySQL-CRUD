@@ -6,8 +6,6 @@
   Curso Básico de NodeJS com MySQL - CRUD
 </h1>
 
-<p align="justify">Seja bem-vindo à nossa jornada de aprendizado, onde mergulhamos nas profundezas do SQL utilizando o poderoso PostgreSQL. Essa playlist oferece uma experiência completa, desde conceitos básicos até técnicas avançadas para transformar você em um mestre em manipulação de dados.</p> 
-
 <p align="justify">Estes códigos pertencem à playlist do canal do YouTube TecEdu4All. </p> 
 
 <p align="justify">Se gostou do repositório, deixe sua estrela ⭐ </p> 
